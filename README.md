@@ -23,5 +23,5 @@ Having to use a content management system.
 # Project Documents (dynamic)
 [User Story Map](https://landofooo.storiesonboard.com/m/activity-1-story-map)<br>
 [Affinity Diagram](https://landofooo.storiesonboard.com/m/mms-affinity-map)<br>
-[Empathy Map](https://docs.google.com/drawings/d/1QxTct-neyg7on6NOEsXDUtP4JmaQuwZXv6VDqgkBF-g/edit)
-[Customer Notes](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=CmKybh)
+[Empathy Map](https://docs.google.com/drawings/d/1QxTct-neyg7on6NOEsXDUtP4JmaQuwZXv6VDqgkBF-g/edit)<br>
+[Customer Notes](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=CmKybh)<br>
