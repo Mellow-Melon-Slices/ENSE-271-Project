@@ -21,7 +21,7 @@ Vagueness and complexity of the OBA restricts efficient brainstorming.
 Having to use an unfamiliar programming environment.
 Having to use a content management system.
 # Project Documents (dynamic)
-[User Story Map](https://landofooo.storiesonboard.com/m/activity-1-story-map)<br>
+[User Story Map (updated May 26)](https://landofooo.storiesonboard.com/m/copy-of-mms-story-map)<br>
 [Affinity Diagram](https://landofooo.storiesonboard.com/m/mms-affinity-map)<br>
 [Empathy Map](https://docs.google.com/drawings/d/1QxTct-neyg7on6NOEsXDUtP4JmaQuwZXv6VDqgkBF-g/edit)<br>
-[Customer Notes](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=WNDJnL)<br>
+[Customer Notes (updated May 26)](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=WNDJnL)<br>
