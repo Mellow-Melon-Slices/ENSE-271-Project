@@ -24,4 +24,4 @@ Having to use a content management system.
 [User Story Map (updated June 1)](https://landofooo.storiesonboard.com/m/copy-of-mms-story-map)<br>
 [Affinity Diagram](https://landofooo.storiesonboard.com/m/mms-affinity-map)<br>
 [Empathy Map](https://docs.google.com/drawings/d/1QxTct-neyg7on6NOEsXDUtP4JmaQuwZXv6VDqgkBF-g/edit)<br>
-[Customer Notes (updated June 1)](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=WNDJnL)<br>
+[Customer Notes (updated June 14)](https://1drv.ms/w/s!AiMUF9w9zosAgZAx_Iw0Roy5fXHjAg?e=WNDJnL)<br>
